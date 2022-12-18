@@ -44,6 +44,7 @@ h2 {
     padding: 0 18px;
 }
 
+
 /* Download buttons */
 
 .download-btn {
@@ -116,4 +117,15 @@ h2 {
 
 .carousel-item {
     padding: 7% 15%;
+}
+
+/* pricing section */
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-columns{
+    padding: 3% 2%;
 }
